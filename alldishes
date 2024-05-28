@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "price": 12.99,
+    "imageUrl": "https://example.com/images/spaghetti_carbonara.jpg",
+    "type": "pasta"
+  },
+  {
+    "id": 2,
+    "name": "Margherita Pizza",
+    "price": 10.99,
+    "imageUrl": "https://example.com/images/margherita_pizza.jpg",
+    "type": "pizza"
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "price": 8.99,
+    "imageUrl": "https://example.com/images/caesar_salad.jpg",
+    "type": "salad"
+  }
+]
